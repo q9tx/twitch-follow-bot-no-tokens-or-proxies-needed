@@ -1,0 +1,1 @@
+ these scripts were made my crimson (q9tx) these interacte with my website https://q9tx.com/ and allow you to have a twitch follow bot with out needing tokens or proxies for yourself also leave a star and join the discord https://discord.gg/csqxeUJPR7
